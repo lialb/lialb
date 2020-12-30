@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Albert ✨ 
+
+I'm a junior studying CS at UIUC (ILL! 🟧🟦)
+
+I'm trying my best
+
 <!--
 **albearli/albearli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
