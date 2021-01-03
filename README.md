@@ -2,7 +2,7 @@
 
 I'm Albert ✨ 
 
-I'm a junior studying CS at UIUC (ILL! 🟧🟦)
+I'm a junior studying CS at UIUC
 
 I'm trying my best
 
