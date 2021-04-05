@@ -6,6 +6,8 @@ I'm a junior studying CS at UIUC
 
 I'm trying my best
 
+[Website](https://lialbert.com) 🌱 [LinkedIn](https://www.linkedin.com/in/albs/) 
+
 <!--
 **albearli/albearli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
