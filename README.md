@@ -11,7 +11,7 @@ I'm trying my best
 <!--
 ![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=albearli&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albearli&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albearli&layout=compact&theme=dracula)
 
 
 **albearli/albearli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
