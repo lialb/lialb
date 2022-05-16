@@ -2,7 +2,7 @@
 
 I'm Albert ✨ 
 
-I recently received my Bachelors from UIUC
+I'm a recent graduate from UIUC
 
 I'm trying my best
 
