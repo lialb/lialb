@@ -2,7 +2,7 @@
 
 I'm Albert ✨ 
 
-I'm a rising senior studying CS at UIUC
+I recently received my Bachelors from UIUC
 
 I'm trying my best
 
