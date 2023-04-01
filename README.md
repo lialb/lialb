@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-I'm Albert ✨ 
-
-I'm a recent graduate from UIUC
-
-I'm trying my best
-
 [Website](https://lialbert.com) 🌱 [LinkedIn](https://www.linkedin.com/in/albs/)
 
 <!--
